@@ -71,3 +71,8 @@ li {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.risca-tarefa {
+    cursor: pointer;
+    text-decoration: line-through;
+}

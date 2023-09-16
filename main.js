@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 
     $("#tarefa-li").on("click", "li", function() {
-      $(this).toggleClass('line-through');
+      $(this).toggleClass('.risca-tarefa');
     });
 
 });
